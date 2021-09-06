@@ -1,0 +1,44 @@
+.container {
+    font-family: 'Sarabun', sans-serif;
+}
+
+#carouselExampleCaptions {
+    font-family: 'Sarabun', sans-serif;
+}
+
+.section {
+    padding-top: 40px;
+    padding-bottom: 50px;
+    font-family: 'Sarabun', sans-serif;
+}
+
+.main-heading {
+    color: #BFA2DB;
+    font-size: 25px;
+}
+
+.underline {
+    height: 4px;
+    width: 10rem;
+    background-color:#F0D9FF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bg-c-dark {
+    background-color: #F3F1F5;
+}
+
+.footer {
+    font-family: 'Sarabun', sans-serif;
+}
+
+.footer a {
+    color: linen;
+    font-family: 'Sarabun', sans-serif;
+}
+
+.footer a:hover{
+    color: lightgrey;
+}
+
